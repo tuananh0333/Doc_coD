@@ -16,3 +16,6 @@ F:\LeTuanAnh\laptrinhungdung\Project_LTUD_LeTuanAnh\Project_LTUD_LeTuanAnh\obj\x
 F:\LeTuanAnh\laptrinhungdung\Project_LTUD_LeTuanAnh\Project_LTUD_LeTuanAnh\obj\x86\Debug\Project_LTUD_LeTuanAnh.frmThemsach.resources
 F:\LeTuanAnh\laptrinhungdung\Project_LTUD_LeTuanAnh\Project_LTUD_LeTuanAnh\obj\x86\Debug\Project_LTUD_LeTuanAnh.frmThongTinSinhVien.resources
 F:\LeTuanAnh\laptrinhungdung\Project_LTUD_LeTuanAnh\Project_LTUD_LeTuanAnh\obj\x86\Debug\Project_LTUD_LeTuanAnh.frmPhieuMuon.resources
+F:\LeTuanAnh\laptrinhungdung\QUAN_LY_THU_VIEN\Project_LTUD_LeTuanAnh\bin\Debug\Project_LTUD_LeTuanAnh.exe.config
+F:\LeTuanAnh\laptrinhungdung\QUAN_LY_THU_VIEN\Project_LTUD_LeTuanAnh\obj\x86\Debug\Project_LTUD_LeTuanAnh.exe
+F:\LeTuanAnh\laptrinhungdung\QUAN_LY_THU_VIEN\Project_LTUD_LeTuanAnh\obj\x86\Debug\Project_LTUD_LeTuanAnh.pdb
